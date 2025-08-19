@@ -12,9 +12,9 @@ Intelligent semantic search across documents.
 
 Summarization and Q&A with context.
 
-Interactive chat interface(Streamlit/Gradio).
+Interactive chat interface(Streamlit).
 
-Powered by LLMs + Vector Databases
+Powered by LLMs + Vector Databases.
 
 Tech Stack Used:
 
@@ -31,9 +31,10 @@ LLM Orchestration → LangChain
 Frontend → Streamlit 
 
 Use Cases:
-Research Papers: Summarize findings across sources.
 
-Legal Contracts:Extract clauses, compare terms.
+Research Papers:  Summarize findings across sources.
 
-Business Reports:Quick insights from long docs.
+Legal Contracts:  Extract clauses, compare terms.
+
+Business Reports:  Quick insights from long docs.
 
