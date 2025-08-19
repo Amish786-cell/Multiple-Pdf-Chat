@@ -6,10 +6,14 @@ This project allows you to chat with multiple PDF documents using AI. Instead of
 
 Features:
 
-Upload and process multiple PDFs at once
-Intelligent semantic search across documents
-Summarization and Q&A with context
-Interactive chat interface (Streamlit/Gradio)
+Upload and process multiple PDFs at once.
+
+Intelligent semantic search across documents.
+
+Summarization and Q&A with context.
+
+Interactive chat interface(Streamlit/Gradio).
+
 Powered by LLMs + Vector Databases
 
 Tech Stack Used:
@@ -27,7 +31,9 @@ LLM Orchestration → LangChain
 Frontend → Streamlit 
 
 Use Cases:
-Research Papers → Summarize findings across sources
-Legal Contracts → Extract clauses, compare terms
-Business Reports → Quick insights from long docs
+Research Papers: Summarize findings across sources.
+
+Legal Contracts:Extract clauses, compare terms.
+
+Business Reports:Quick insights from long docs.
 
